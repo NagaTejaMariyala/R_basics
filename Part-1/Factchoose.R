@@ -1,0 +1,6 @@
+factorial(10)
+factorial(0)
+factorial(-10)
+choose(6,4)
+choose(3,4)
+choose(6)

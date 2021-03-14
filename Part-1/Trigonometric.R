@@ -1,0 +1,9 @@
+sin(30)
+pi
+sin(pi/6)
+cos(pi)
+tan(pi/2)
+sin(pi)
+acos(1)
+sinh(pi)
+atanh(1)
